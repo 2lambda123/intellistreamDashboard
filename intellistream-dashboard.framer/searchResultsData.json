@@ -1,0 +1,66 @@
+[
+	{
+		"assetName": "Edison 1A",
+		"tags": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"assetName": "Edison 2A",
+		"tags": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"assetName": "Edison 3A",
+		"tags": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"assetName": "Edison 4A",
+		"tags": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"assetName": "Edison 2F",
+		"tags": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"assetName": "Edison 2G",
+		"tags": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"assetName": "Edison 2H",
+		"tags": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"assetName": "Midland 2F",
+		"tags": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"assetName": "Midland 2G",
+		"tags": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"assetName": "Midland 3F",
+		"tags": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"assetName": "Midland 3H",
+		"tags": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"assetName": "Midland 3I",
+		"tags": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"assetName": "Midland 4A",
+		"tags": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"assetName": "Midland 4B",
+		"tags": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"assetName": "Midland 5A",
+		"tags": "ESP, Total Liquid, Oil Production, BBL/Day"
+	},
+	{
+		"assetName": "Midland 6B",
+		"tags": "ESP, Total Liquid, Oil Production, BBL/Day"
+	}
+]

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4px" height="20px" viewBox="0 0 4 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>overflow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="dashboard-/-data-table" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="table-detail" transform="translate(-1225.000000, -176.000000)" fill="#8BD6FF">
+            <g id="table" transform="translate(30.000000, 125.000000)">
+                <g id="tbody" transform="translate(0.000000, 38.000000)">
+                    <g id="actions" transform="translate(1065.000000, 3.000000)">
+                        <g id="overflow" transform="translate(130.000000, 10.000000)">
+                            <circle id="Oval" cx="2" cy="2" r="2"></circle>
+                            <circle id="Oval-Copy" cx="2" cy="10" r="2"></circle>
+                            <circle id="Oval-Copy-2" cx="2" cy="18" r="2"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

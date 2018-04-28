@@ -1,0 +1,36 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.3,
+  "designModeSelected" : 0,
+  "cachedDeviceHeight" : 0,
+  "contentScale" : 1,
+  "cachedDeviceWidth" : 0,
+  "deviceType" : "fullscreen",
+  "sharedPrototype" : true,
+  "propertyPanelToggleStates" : {
+
+  },
+  "projectId" : "26CAC916-EF70-40EB-9003-E70C1E2D5978",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "showBezel" : 0,
+  "foldedCodeRanges" : [
+    "{0, 169}",
+    "{169, 1070}",
+    "{1239, 1148}",
+    "{2387, 2946}",
+    "{5333, 3347}",
+    "{8680, 1358}",
+    "{10038, 5070}",
+    "{15108, 3821}",
+    "{18929, 5607}",
+    "{24536, 2326}",
+    "{26862, 15821}",
+    "{42683, 19150}",
+    "{61833, 4072}",
+    "{65905, 3137}",
+    "{69042, 8050}",
+    "{77092, 26664}"
+  ],
+  "deviceScale" : 1
+}

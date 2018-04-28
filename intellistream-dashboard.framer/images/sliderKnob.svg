@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2px" height="20px" viewBox="0 0 2 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="optimization" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-593.000000, -745.000000)">
+        <g id="layout" stroke="#0D1A21">
+            <g id="content" transform="translate(0.000000, 100.000000)">
+                <g id="sandbox" transform="translate(0.000000, 125.000000)">
+                    <g id="sliders" transform="translate(60.000000, 405.000000)">
+                        <g id="frequency" transform="translate(400.000000, 80.000000)">
+                            <rect id="Rectangle-3" x="133.5" y="35.5" width="1" height="19"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
